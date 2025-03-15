@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\structs\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:structs\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\shapeseries\\squareseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:shapeseries\\squareseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\shapeseries\\circleseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:shapeseries\\circleseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\interfaces\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:interfaces\\iwalkable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:interfaces\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\interfaces\\ishapeseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:interfaces\\ishapeseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:interfaces\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:classes\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\classes\\sortableshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:classes\\sortableshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\classes\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:classes\\robot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:classes\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:classes\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\classes\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:classes\\consolelogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:classes\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:classes\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\classes\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:classes\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\classes\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:classes\\bike.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\abstractclasses\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:abstractclasses\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\abstractclasses\\geometricshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:abstractclasses\\geometricshape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|c:\\users\\ahmed nagy\\desktop\\day08\\day8\\task8\\task8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{325ED130-D4CA-485B-BCA9-7CB48974A8A3}|Task8.csproj|solutionrelative:task8.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SortableShape.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\SortableShape.cs",
+              "RelativeDocumentMoniker": "Classes\\SortableShape.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\SortableShape.cs",
+              "RelativeToolTip": "Classes\\SortableShape.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAgwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:50:42.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Student.cs",
+              "RelativeDocumentMoniker": "Classes\\Student.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Student.cs",
+              "RelativeToolTip": "Classes\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:17:08.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Interfaces\\ILogger.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ILogger.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Interfaces\\ILogger.cs",
+              "RelativeToolTip": "Interfaces\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:17:36.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IShapeSeries.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Interfaces\\IShapeSeries.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IShapeSeries.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Interfaces\\IShapeSeries.cs",
+              "RelativeToolTip": "Interfaces\\IShapeSeries.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:18:16.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Interfaces\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Interfaces\\IVehicle.cs",
+              "RelativeToolTip": "Interfaces\\IVehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:18:18.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IWalkable.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Interfaces\\IWalkable.cs",
+              "RelativeDocumentMoniker": "Interfaces\\IWalkable.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Interfaces\\IWalkable.cs",
+              "RelativeToolTip": "Interfaces\\IWalkable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:18:19.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CircleSeries.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\ShapeSeries\\CircleSeries.cs",
+              "RelativeDocumentMoniker": "ShapeSeries\\CircleSeries.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\ShapeSeries\\CircleSeries.cs",
+              "RelativeToolTip": "ShapeSeries\\CircleSeries.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:08:33.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SquareSeries.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\ShapeSeries\\SquareSeries.cs",
+              "RelativeDocumentMoniker": "ShapeSeries\\SquareSeries.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\ShapeSeries\\SquareSeries.cs",
+              "RelativeToolTip": "ShapeSeries\\SquareSeries.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:08:15.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Structs\\Account.cs",
+              "RelativeDocumentMoniker": "Structs\\Account.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Structs\\Account.cs",
+              "RelativeToolTip": "Structs\\Account.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:07:54.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:44:14.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Robot.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Robot.cs",
+              "RelativeDocumentMoniker": "Classes\\Robot.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Robot.cs",
+              "RelativeToolTip": "Classes\\Robot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:16:52.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Classes\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Rectangle.cs",
+              "RelativeToolTip": "Classes\\Rectangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:16:35.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Product.cs",
+              "RelativeDocumentMoniker": "Classes\\Product.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Product.cs",
+              "RelativeToolTip": "Classes\\Product.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:16:18.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ConsoleLogger.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\ConsoleLogger.cs",
+              "RelativeDocumentMoniker": "Classes\\ConsoleLogger.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\ConsoleLogger.cs",
+              "RelativeToolTip": "Classes\\ConsoleLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:15:51.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Circle.cs",
+              "RelativeDocumentMoniker": "Classes\\Circle.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Circle.cs",
+              "RelativeToolTip": "Classes\\Circle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:07:21.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Car.cs",
+              "RelativeDocumentMoniker": "Classes\\Car.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Car.cs",
+              "RelativeToolTip": "Classes\\Car.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:14:10.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Books.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Books.cs",
+              "RelativeDocumentMoniker": "Classes\\Books.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Books.cs",
+              "RelativeToolTip": "Classes\\Books.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:45:18.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Bike.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Bike.cs",
+              "RelativeDocumentMoniker": "Classes\\Bike.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Classes\\Bike.cs",
+              "RelativeToolTip": "Classes\\Bike.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:14:36.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\AbstractClasses\\Shape.cs",
+              "RelativeDocumentMoniker": "AbstractClasses\\Shape.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\AbstractClasses\\Shape.cs",
+              "RelativeToolTip": "AbstractClasses\\Shape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:36:49.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GeometricShape.cs",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\AbstractClasses\\GeometricShape.cs",
+              "RelativeDocumentMoniker": "AbstractClasses\\GeometricShape.cs",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\AbstractClasses\\GeometricShape.cs",
+              "RelativeToolTip": "AbstractClasses\\GeometricShape.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:17:42.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Task8",
+              "DocumentMoniker": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Task8.csproj",
+              "RelativeDocumentMoniker": "Task8.csproj",
+              "ToolTip": "C:\\Users\\Ahmed NAgy\\Desktop\\Day08\\Day8\\Task8\\Task8.csproj",
+              "RelativeToolTip": "Task8.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T14:31:28.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
